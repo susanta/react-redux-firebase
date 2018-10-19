@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+/marioplan/node_modules
+/marioplan/functions/node_modules
 
 # testing
 /coverage
